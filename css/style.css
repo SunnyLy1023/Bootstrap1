@@ -1,0 +1,49 @@
+.nav-content .col-md-2{
+	height: 100%;
+	padding-top:30px ;
+	background-color: #eee;
+	line-height: 1.5;
+	font-size: 14px;
+}
+
+.nav-content .col-md-2 a:hover{
+	background: #428bca;
+	color: #fff;
+}
+#panel-row{
+	margin-top: 10px;
+}
+#panel-badge li{
+	height: 40px;
+	background-color: #31B0D5;
+	border-radius: 4px;
+	margin-bottom: 10px;
+}
+#panel-badge li a{
+	color: #fff;
+}
+#panel-badge li a:hover{
+	background-color: #31B0D5;
+}
+.panel-body{
+	padding-top: 30px;
+}
+#panel-well,#panel-build{
+	color: #fff;;
+	border-radius: 4px;
+	padding: 4px 8px;
+}
+#panel-well{
+	background-color: #428bca;
+}
+.panel-body .progress-well{
+	margin-top: 8px;
+}
+#panel-build{
+	background-color: #d9534f;
+}
+
+.footer .footer-info{
+	text-align: center;
+	line-height: 50px;
+}
